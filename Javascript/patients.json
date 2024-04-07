@@ -1,0 +1,51 @@
+[
+  {
+    "fName": "Sandy",
+    "lName": "Matthews",
+    "patientID": "12035",
+    "dateOfBirth": "1993, 03, 20",
+    "email": "sandy.m.@javascript.com",
+    "phoneNum": "902-193-1341",
+    "familyDoc": "Dr. Eyes"
+  },
+
+  {
+    "fName": "Martin",
+    "lName": "Johnson",
+    "patientID": "12036",
+    "dateOfBirth": "1958, 12, 12",
+    "email": "martinjohnson@javascript.com",
+    "phoneNum": "709-382-1839",
+    "familyDoc": "Dr. Hands"
+  },
+
+  {
+    "fName": "Randall",
+    "lName": "Matthews",
+    "patientID": "12037",
+    "dateOfBirth": "1960, 01, 03",
+    "email": "rmatthews@javascript.com",
+    "phoneNum": "902-204-2099",
+    "familyDoc": "Dr. Eyes"
+  },
+
+  {
+    "fName": "Polly",
+    "lName": "Power",
+    "patientID": "12038",
+    "dateOfBirth": "1996, 11, 23",
+    "email": "pollypower1996@javascript.com",
+    "phoneNum": "708-323-9538",
+    "familyDoc": "Dr. Hands"
+  },
+
+  {
+    "fName": "Andrew",
+    "lName": "Hendricks",
+    "patientID": "12039",
+    "dateOfBirth": "1988, 01, 09",
+    "email": "andyhendy@javascript.com",
+    "phoneNum": "709-643-9482",
+    "familyDoc": "Dr. Eyes"
+  }
+]
