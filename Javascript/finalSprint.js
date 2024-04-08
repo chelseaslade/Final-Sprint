@@ -2,6 +2,9 @@
 //Author: Chelsea Slade (Mayne)
 //Date: April 3, 2024
 
+//Test
+console.log("This is my test!");
+
 //Functions
 function printFullName(patient) {
   return `${patient.fName} ${patient.lName}`;
